@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Edu.Dani\\Controle-despesa-home\\Valida\u00E7\u00E3o-cart\u00E3o\\validacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1152824D-F06E-47D9-B71A-3D41B600B732}|validacao.csproj|d:\\edu.dani\\controle-despesa-home\\valida\u00E7\u00E3o-cart\u00E3o\\validacao\\controllers\\creditcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1152824D-F06E-47D9-B71A-3D41B600B732}|validacao.csproj|solutionrelative:controllers\\creditcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1152824D-F06E-47D9-B71A-3D41B600B732}|validacao.csproj|d:\\edu.dani\\controle-despesa-home\\valida\u00E7\u00E3o-cart\u00E3o\\validacao\\service\\luhnvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1152824D-F06E-47D9-B71A-3D41B600B732}|validacao.csproj|solutionrelative:service\\luhnvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1152824D-F06E-47D9-B71A-3D41B600B732}|validacao.csproj|d:\\edu.dani\\controle-despesa-home\\valida\u00E7\u00E3o-cart\u00E3o\\validacao\\service\\cardbrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1152824D-F06E-47D9-B71A-3D41B600B732}|validacao.csproj|solutionrelative:service\\cardbrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1152824D-F06E-47D9-B71A-3D41B600B732}|validacao.csproj|d:\\edu.dani\\controle-despesa-home\\valida\u00E7\u00E3o-cart\u00E3o\\validacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1152824D-F06E-47D9-B71A-3D41B600B732}|validacao.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1152824D-F06E-47D9-B71A-3D41B600B732}|validacao.csproj|d:\\edu.dani\\controle-despesa-home\\valida\u00E7\u00E3o-cart\u00E3o\\validacao\\model\\creditcardrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1152824D-F06E-47D9-B71A-3D41B600B732}|validacao.csproj|solutionrelative:model\\creditcardrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1152824D-F06E-47D9-B71A-3D41B600B732}|validacao.csproj|d:\\edu.dani\\controle-despesa-home\\valida\u00E7\u00E3o-cart\u00E3o\\validacao\\model\\creditcardresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1152824D-F06E-47D9-B71A-3D41B600B732}|validacao.csproj|solutionrelative:model\\creditcardresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Edu.Dani\\Controle-despesa-home\\Valida\u00E7\u00E3o-cart\u00E3o\\validacao\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Edu.Dani\\Controle-despesa-home\\Valida\u00E7\u00E3o-cart\u00E3o\\validacao\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T17:28:55.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CardBrandService.cs",
+              "DocumentMoniker": "D:\\Edu.Dani\\Controle-despesa-home\\Valida\u00E7\u00E3o-cart\u00E3o\\validacao\\Service\\CardBrandService.cs",
+              "RelativeDocumentMoniker": "Service\\CardBrandService.cs",
+              "ToolTip": "D:\\Edu.Dani\\Controle-despesa-home\\Valida\u00E7\u00E3o-cart\u00E3o\\validacao\\Service\\CardBrandService.cs",
+              "RelativeToolTip": "Service\\CardBrandService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:47:42.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreditCardController.cs",
+              "DocumentMoniker": "D:\\Edu.Dani\\Controle-despesa-home\\Valida\u00E7\u00E3o-cart\u00E3o\\validacao\\Controllers\\CreditCardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CreditCardController.cs",
+              "ToolTip": "D:\\Edu.Dani\\Controle-despesa-home\\Valida\u00E7\u00E3o-cart\u00E3o\\validacao\\Controllers\\CreditCardController.cs",
+              "RelativeToolTip": "Controllers\\CreditCardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:36:35.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LuhnValidator.cs",
+              "DocumentMoniker": "D:\\Edu.Dani\\Controle-despesa-home\\Valida\u00E7\u00E3o-cart\u00E3o\\validacao\\Service\\LuhnValidator.cs",
+              "RelativeDocumentMoniker": "Service\\LuhnValidator.cs",
+              "ToolTip": "D:\\Edu.Dani\\Controle-despesa-home\\Valida\u00E7\u00E3o-cart\u00E3o\\validacao\\Service\\LuhnValidator.cs",
+              "RelativeToolTip": "Service\\LuhnValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:35:00.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreditCardResponse.cs",
+              "DocumentMoniker": "D:\\Edu.Dani\\Controle-despesa-home\\Valida\u00E7\u00E3o-cart\u00E3o\\validacao\\Model\\CreditCardResponse.cs",
+              "RelativeDocumentMoniker": "Model\\CreditCardResponse.cs",
+              "ToolTip": "D:\\Edu.Dani\\Controle-despesa-home\\Valida\u00E7\u00E3o-cart\u00E3o\\validacao\\Model\\CreditCardResponse.cs",
+              "RelativeToolTip": "Model\\CreditCardResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:33:29.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreditCardRequest.cs",
+              "DocumentMoniker": "D:\\Edu.Dani\\Controle-despesa-home\\Valida\u00E7\u00E3o-cart\u00E3o\\validacao\\Model\\CreditCardRequest.cs",
+              "RelativeDocumentMoniker": "Model\\CreditCardRequest.cs",
+              "ToolTip": "D:\\Edu.Dani\\Controle-despesa-home\\Valida\u00E7\u00E3o-cart\u00E3o\\validacao\\Model\\CreditCardRequest.cs",
+              "RelativeToolTip": "Model\\CreditCardRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:32:29.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
