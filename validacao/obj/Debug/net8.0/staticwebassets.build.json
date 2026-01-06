@@ -1,1 +1,11 @@
-{"Version":1,"Hash":"9pvpTnJrJAeBGQwd1TfZdQjLZYTu1QLTuOaHCFs+i4k=","Source":"validacao","BasePath":"/","Mode":"Root","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
+{
+  "Version": 1,
+  "Hash": "daj38RD4dGrOUgJPYIVwg/0PwRrK2nalwuXd5bzsqGQ=",
+  "Source": "validacao",
+  "BasePath": "_content/validacao",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
